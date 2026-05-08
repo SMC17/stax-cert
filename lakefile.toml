@@ -1,0 +1,6 @@
+name = "StaxCert"
+version = "0.1.0"
+defaultTargets = ["StaxCert"]
+
+[[lean_lib]]
+name = "StaxCert"

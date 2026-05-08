@@ -1,0 +1,18 @@
+# Lean / Lake build artifacts
+/.lake/
+/build/
+/lake-packages/
+/lakefile.olean
+
+# Editor
+*.swp
+*~
+.DS_Store
+
+# Mathlib cache (large)
+**/.lake/build/
+**/.lake/packages/
+
+# OS
+.Trash-*
+/.lake
