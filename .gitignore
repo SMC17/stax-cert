@@ -16,3 +16,20 @@
 # OS
 .Trash-*
 /.lake
+# homed-checkpoint ignores
+node_modules/
+.venv/
+venv/
+__pycache__/
+target/
+**/.zig-cache/
+**/zig-out/
+_build/
+deps/
+dist/
+.env
+*.env
+*.key
+*.pem
+id_rsa
+id_ed25519
