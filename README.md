@@ -74,7 +74,7 @@ Lean version pinned in `lean-toolchain` (currently `v4.29.1`).
 
 ## License
 
-AGPL-3.0-or-later. See `LICENSE`.
+Apache-2.0. See `LICENSE`.
 
 The AGPL is deliberate: this codebase is a public good and any service
 built on it should be a public good too. The wider sovereign-edge
