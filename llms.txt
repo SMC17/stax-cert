@@ -1,0 +1,17 @@
+# stax-cert (`SMC17/stax-cert`)
+
+> Lean 4 formalization seed for categorical foundations of gradient-based learning (Para, Lens, CRDC, and backprop functor).
+
+## Key Links
+- **Repository**: https://github.com/SMC17/stax-cert
+- **Related (`zig-substrate`)**: https://github.com/SMC17/zinging
+- **Author / Org**: https://github.com/SMC17
+
+## Key Files
+- [README](README.md) & [Status](STATUS.md)
+- `StaxCert/Basic.lean` — `Category`, `StrictSMC`, `CartesianCategory`
+- `StaxCert/Para.lean` — `ParaHom`, `idPara`, `compPara`
+- `StaxCert/Lens.lean` — `LensHom`, `idLens`, `compLens`, lens laws
+- `StaxCert/CRDC.lean` — `LeftAdditive`, `CRDC`
+- `StaxCert/Backprop.lean` — `onObj`, `onMor`, `onMor_id`
+- `StaxCert/Composition.lean` — definitional composition lemmas
