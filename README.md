@@ -1,5 +1,7 @@
 # stax-cert
 
+**[Status](STATUS.md) · [Roadmap](ROADMAP.md) · [Contributing](CONTRIBUTING.md) · [Issues](https://github.com/SMC17/stax-cert/issues) · [Public roadmap](https://github.com/users/SMC17/projects/16)**
+
 **v0 — Lean 4 prerequisites for compositional alignment.**
 Para, Lens(C), CRDC, the backprop functor `R : CRDC → Lens(CRDC)`, and
 one composition lemma. **No** double categories, **no** refinement
